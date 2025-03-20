@@ -1,0 +1,8 @@
+name = "hackathon-2025"
+type = "javascript"  # Workers support JavaScript/TypeScript
+account_id = "your-cloudflare-account-id"
+workers_dev = true
+compatibility_date = "2025-03-20"
+
+[build]
+command = "python3 app.py"  # Command to run your Python app
