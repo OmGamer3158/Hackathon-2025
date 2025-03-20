@@ -1,8 +1,0 @@
-name = "hackathon-2025"
-type = "javascript"  # Workers support JavaScript/TypeScript
-account_id = "4cdbc648222a36008895034ee571ebbb"
-workers_dev = true
-compatibility_date = "2025-03-20"
-
-[build]
-command = "python3 app.py"  # Command to run your Python app
